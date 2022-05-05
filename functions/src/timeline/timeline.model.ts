@@ -1,5 +1,5 @@
 /**
- * Created by Andrey Okhotnikov on 06.04.20.
+ * Created by Andrey Okhotnikov
  * Email: hunterov1984@gmail.com
  */
 import { ITimelineItem } from './item/item.model';

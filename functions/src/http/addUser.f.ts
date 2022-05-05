@@ -1,5 +1,5 @@
 /**
- * Created by Andrey Okhotnikov on 18.03.20.
+ * Created by Andrey Okhotnikov
  * Email: hunterov1984@gmail.com
  */
 import * as functions from 'firebase-functions';

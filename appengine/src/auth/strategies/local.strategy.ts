@@ -1,5 +1,5 @@
 /**
- * Created by Andrey Okhotnikov on 02.04.20.
+ * Created by Andrey Okhotnikov
  * Email: hunterov1984@gmail.com
  */
 import { Injectable, UnauthorizedException } from '@nestjs/common';

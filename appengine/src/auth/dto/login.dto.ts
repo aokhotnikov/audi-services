@@ -1,5 +1,5 @@
 /**
- * Created by Andrey Okhotnikov on 03.04.20.
+ * Created by Andrey Okhotnikov
  * Email: hunterov1984@gmail.com
  */
 import { IsNotEmpty, IsString } from 'class-validator';
